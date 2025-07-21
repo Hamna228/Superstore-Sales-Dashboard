@@ -88,6 +88,6 @@ Monthly sales growth patterns for Furniture, Office Supplies, and Technology fro
 
 ---
 
-## 📸 Screenshot / Demo  
+## 📸 Screenshot 
 
 ![Superstore Sales Dashboard](https://github.com/Hamna228/Superstore-Sales-Dashboard/blob/main/Superstore%20dashboard.png)
